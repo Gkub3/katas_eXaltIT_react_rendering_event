@@ -1,0 +1,17 @@
+.evt-item{
+    position: absolute;
+    border: 1px dashed #fefefe;
+    overflow: hidden;
+    background-color: #434343;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.evt-span{
+    font-weight: bold;
+    font-size: small;
+    color: #e1e1e1
+}
